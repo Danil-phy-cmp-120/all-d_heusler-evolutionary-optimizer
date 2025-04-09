@@ -165,7 +165,7 @@ def plot_population_distribution(subpopulations, generation, comp_dict_uniform, 
         'arrowstyle': arrowstyle,
         'linewidth': 1,
         'clip_on': False,  # To plot arrows outside triangle
-        'zorder': -10,  # Very low value not to hide e.g. tick labels.
+        'zorder': -10,
     }
 
     # Start of arrows in barycentric coordinates.
@@ -197,7 +197,7 @@ def plot_population_distribution(subpopulations, generation, comp_dict_uniform, 
         'ha': 'center',
         'va': 'center',
         'rotation_mode': 'anchor',
-        'zorder': -9,  # A bit higher on arrows, but still lower than others.
+        'zorder': -9,
     }
 
     # Put axis-labels on the midpoints of arrows
