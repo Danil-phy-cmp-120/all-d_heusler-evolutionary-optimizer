@@ -378,13 +378,13 @@ if __name__ == "__main__":
 
     for generation in range(max_generations):
 
-        '''if generation == 0:
+        if generation == 0:
             uniform_population = generate_uniform_composition(subpopulations[0][0].elements, 50)
             comp_dict_uniform = {element: [comp[element] for comp in uniform_population] for element in subpopulations[0][0].elements}
             fitness_uniform = calculate_fitness(uniform_population)
             plot_population_distribution(subpopulations, generation, comp_dict_uniform, fitness_uniform, generation)
         else:
-            plot_population_distribution(subpopulations, generation, comp_dict_uniform, fitness_uniform, generation)'''
+            plot_population_distribution(subpopulations, generation, comp_dict_uniform, fitness_uniform, generation)
 
 
         diversity = np.mean([calculate_population_diversity(subpop) for subpop in subpopulations])
