@@ -62,6 +62,7 @@ dft-evolutionary-optimizer/
 ├── df.csv                        # Dataset
 ├── optimizator_GA.py             # Genetic Algorithm optimizer
 └── LICENSE
+```
 
 ## 📝 Citation
 
