@@ -4,7 +4,7 @@ This project provides a framework for optimizing material structures using Densi
 
 ## 🧠 Overview
 
-The goal is to accelerate DFT-based optimization by using trained surrogate models and efficient sampling strategies. The project includes:
+The goal is to accelerate DFT-based optimization by using trained surrogate Random Forest models and efficient sampling strategies. The project includes:
 - Sampling scripts for generating DFT input data
 - Active learning loops for structure-property optimization
 - Trained machine learning models for property prediction
