@@ -2,7 +2,7 @@
 
 This project provides a framework for optimizing material structures using Density Functional Theory (DFT) guided by active learning and genetic algorithms.
 
-## 🧠 Overview
+## Overview
 
 The goal is to accelerate DFT-based optimization by using trained surrogate Random Forest models and efficient sampling strategies. The project includes:
 - Sampling scripts for generating DFT input data
@@ -39,7 +39,7 @@ Recommended: Python 3.8+ with the following packages:
 pip install numpy pandas scikit-learn matplotlib
 ```
 
-Additional tools for DFT workflows (e.g., VASP) may be required for full functionality.
+Additional tools for DFT workflows (e.g., VASP) is required for full functionality.
 
 ## 🚀 Usage
 
