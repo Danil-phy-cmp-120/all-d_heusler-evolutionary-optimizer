@@ -1,0 +1,112 @@
+{
+  "Mn2TiRh": {
+    "119": {
+      "index": 8,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 0.0832,
+      "Tc_K": 818.0
+    },
+    "216": {
+      "index": 7,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 3.2319,
+      "Tc_K": 407.1
+    }
+  },
+  "Fe2TiCu": {
+    "119": {
+      "index": 10,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 3.1898,
+      "Tc_K": 1055.9
+    },
+    "216": {
+      "index": 9,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 3.5757,
+      "Tc_K": 1130.0
+    }
+  },
+  "Fe2VIr": {
+    "119": {
+      "index": 11,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 3.6117,
+      "Tc_K": 457.1
+    },
+    "216": {
+      "index": 1,
+      "magnetic_order": "ferromagnetic",
+      "mu_tot_muB_per_f_u": 4.794,
+      "Tc_K": 974.7
+    }
+  },
+  "Mn2NbIr": {
+    "119": {
+      "index": 12,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 4.0865,
+      "Tc_K": 641.9
+    }
+  },
+  "Co2RuIr": {
+    "119": {
+      "index": 3,
+      "magnetic_order": "ferromagnetic",
+      "mu_tot_muB_per_f_u": 2.0545,
+      "Tc_K": 289.7
+    }
+  },
+  "Co2ScHg": {
+    "119": {
+      "index": 5,
+      "magnetic_order": "ferromagnetic",
+      "mu_tot_muB_per_f_u": 2.4307,
+      "Tc_K": 439.9
+    }
+  },
+  "Ni2ScCo": {
+    "139": {
+      "index": 13,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 1.4898,
+      "Tc_K": 230.6
+    },
+    "216": {
+      "index": 2,
+      "magnetic_order": "ferromagnetic",
+      "mu_tot_muB_per_f_u": 1.0457,
+      "Tc_K": 120.7
+    }
+  },
+  "Mn2PtCr": {
+    "139": {
+      "index": 15,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 3.7388,
+      "Tc_K": 1379.6
+    },
+    "225": {
+      "index": 14,
+      "magnetic_order": "ferrimagnetic",
+      "mu_tot_muB_per_f_u": 5.6324,
+      "Tc_K": 447.9
+    }
+  },
+  "Ni2TiRu": {
+    "216": {
+      "index": 4,
+      "magnetic_order": "ferromagnetic",
+      "mu_tot_muB_per_f_u": 1.2822,
+      "Tc_K": 274.7
+    }
+  },
+  "Fe2TaRu": {
+    "216": {
+      "index": 6,
+      "magnetic_order": "ferromagnetic",
+      "mu_tot_muB_per_f_u": 4.672,
+      "Tc_K": 1158.1
+    }
+  }
+}
