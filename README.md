@@ -60,6 +60,7 @@ dft-evolutionary-optimizer/
 │   └── model_volume.pickle
 │
 ├── df.csv                        # Dataset
+├── Curie.json                    # Dataset of Curie temperatures for all-d Heuslers
 ├── optimizator_GA.py             # Genetic Algorithm optimizer
 └── LICENSE
 ```
